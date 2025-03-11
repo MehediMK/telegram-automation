@@ -1,0 +1,6 @@
+API_ID = "your_API_ID"
+API_HASH = "your_API_HASH"
+CHANNEL_USERNAME = "target_CHANNEL_USERNAME" 
+
+DOWNLOAD_FOLDER = "downloads"
+LOG_FILE = "logs/app.log"
