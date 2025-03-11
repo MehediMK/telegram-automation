@@ -1,0 +1,4 @@
+telethon
+nest_asyncio
+python-decouple==3.8
+tqdm
