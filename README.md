@@ -14,7 +14,7 @@ Make sure you have Python 3.8 or higher installed.
 
 ### Install Dependencies
 ```sh
-pip install telethon python-decouple tqdm nest_asyncio
+pip install telethon python-decouple tqdm aiofiles
 ```
 
 ## Configuration
