@@ -5,11 +5,8 @@ from tqdm.asyncio import tqdm_asyncio
 from telethon import TelegramClient, events
 from decouple import config
 import aiofiles
-import nest_asyncio
 from datetime import datetime
 
-# Apply the event loop patch for Jupyter
-nest_asyncio.apply()
 
 # Configuration
 API_ID = config('API_ID')
