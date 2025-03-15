@@ -1,4 +1,4 @@
 telethon
-nest_asyncio
+aiofiles
 python-decouple==3.8
 tqdm
